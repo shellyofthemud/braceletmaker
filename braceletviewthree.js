@@ -83,6 +83,8 @@ function init() {
 
 	window.addEventListener( 'resize', onWindowResize, false );
 
+  //const interaction = new Interaction(renderer, scene, camera);
+
 }
 
 function onWindowResize() {
